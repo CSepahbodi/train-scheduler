@@ -1,4 +1,11 @@
-.theHead {
+#theHead {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: purple;
+}
+
+#chooseLife {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     font-size: 12px;
